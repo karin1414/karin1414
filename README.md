@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on data analysis projects and open-source initiatives.
 - 🤔 I’m looking for help with real-world applications of data analysis techniques and best practices.
 - 📫 How to reach me:busya_86@mail.ru or in Telegram: @karinvolk.
-- ⚡ Fun fact: I'm passionate about turning data into actionable insights to help businesses make informed decisions!
+
